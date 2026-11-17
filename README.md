@@ -39,6 +39,7 @@ Combining a formal academic background in **Social Relations** and university st
 
 ## Authored Publications & Technical Essays
 
+- [Architecting Multilingual Federation Portals & Public Verification Registries in React: Inside Amiry Design London](https://dev.to/behniaamirimanesh/architecting-multilingual-federation-portals-public-verification-registries-in-react-inside-572h)
 - [From Zero to Global Federations: How Behnia Amirimanesh Scaled Amiry Design with IMMASF & ISDF in 90 Days](https://amirydesign.com/blog/scaling-amiry-design-international-federations-immasf-isdf) ([DEV](https://dev.to/behniaamirimanesh/from-zero-to-global-federations-how-behnia-amirimanesh-scaled-amiry-design-with-immasf-isdf-in-5b27) · [Hashnode](https://behnia.hashnode.dev/from-zero-to-global-federations-how-behnia-amirimanesh-scaled-amiry-design-with-immasf-isdf-in-90-days))
 - [Engineering Trust: How Finance, Social Relations & Precision Web Design Built Amiry Design London](https://amirydesign.com/blog/behnia-amirimanesh-finance-social-relations-web-design) ([DEV](https://dev.to/behniaamirimanesh/engineering-trust-how-finance-social-relations-precision-web-design-built-amiry-design-london-2j2h) · [Hashnode](https://behnia.hashnode.dev/engineering-trust-how-finance-social-relations-precision-web-design-built-amiry-design-london))
 - [The 50-Millisecond Verdict: Why UI Design Is the Critical Factor in Brand Survival](https://dev.to/behniaamirimanesh/the-50-millisecond-verdict-why-ui-design-is-the-single-most-critical-factor-in-brand-survival-4g2h)
